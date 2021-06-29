@@ -1,0 +1,18 @@
+.statistics {
+  text-align: center;
+}
+.title {
+  background: red;
+}
+.list {
+  list-style: none;
+}
+.item {
+  background: teal;
+}
+.label {
+  background: grey;
+}
+.percentage {
+  background: white;
+}
